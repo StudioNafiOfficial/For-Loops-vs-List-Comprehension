@@ -1,4 +1,5 @@
 # For-Loops-vs-List-Comprehension
+![ForLoop_VS_ListComprehension](https://github.com/StudioNafiOfficial/For-Loops-vs-List-Comprehension/assets/111272046/01f094f9-34ec-48a6-b17c-fda85f2cb6e8)
 
 I was very bored, so...
 
